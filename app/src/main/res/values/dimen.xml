@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="button_width">60dp</dimen>
+    <dimen name="equalbutton_width">140dp</dimen>
+    <dimen name="button_margin">10dp</dimen>
+
+    <dimen name="row_margin">30dp</dimen>
+
+    <dimen name="text_size">15sp</dimen>
+
+    <dimen name="history_size">20sp</dimen>
+
+    <dimen name="operation_size">16sp</dimen>
+
+    <dimen name="result_margin">30dp</dimen>
+    <dimen name="result_size">40sp</dimen>
+</resources>

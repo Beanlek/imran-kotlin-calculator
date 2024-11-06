@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="grey">#FFc4c4c4</color>
+
+    <color name="blue__honolulu_blue">#FF0077b6</color>
+    <color name="blue__pacific_cyan">#FF90e0ef</color>
+    <color name="blue__federal_blue">#FF03045e</color>
+
+    <color name="peach__cornsilk">#FFfefae0</color>
+</resources>
